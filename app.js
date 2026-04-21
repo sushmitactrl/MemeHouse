@@ -578,7 +578,7 @@ const STUDENTS = [
     meme: null, reason: null },
   { name: "MAIBAM SUSHMITA",
     roll: "NDUIBC2614", course: "BCA (4 Years)", section: "SECTION C",
-    meme: images/NDUIBC2614 BCA-2C.png reason: Life is too much },
+    meme: "images/Sushmita2614 BCA-2C.png" reason:"Life is too much" },
   { name: "KHUMUKCHAM VICTORY CHANU",
     roll: "NDUIBC2615", course: "BCA (4 Years)", section: "SECTION C",
     meme: null, reason: null },
